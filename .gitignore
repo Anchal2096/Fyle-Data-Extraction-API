@@ -1,0 +1,7 @@
+.idea/
+venv/
+testFile*.py
+__pycache__/
+*/*/.fuse
+!.gitignore
+!app.py
